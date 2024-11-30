@@ -1,4 +1,4 @@
-# Analise_de_sentimentos_delivery
+# Analise_de_sentimentos_e_emocoes_delivery
 
 ## **PROJETO DE INICIAÇÃO CIENTÍFICA**
 
