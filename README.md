@@ -1,5 +1,7 @@
 # Analise_de_sentimentos_delivery
 
+## **PROJETO DE INICIAÇÃO CIENTÍFICA**
+
 ## **A ANÁLISE DE SENTIMENTOS DE MENSAGENS DO TWITTER ENVOLVENDO SERVIÇOS DE ENTREGA DE ALIMENTOS**
 
 Este foi um projeto de Iniciação Científica realizado entre agosto de 2022 e agosto de 2023, que tinha como objetivo obter um modelo preditivo de análise de sentimentos de clientes de serviços de entrega de alimentos.
@@ -19,3 +21,25 @@ Autoria:
 - Curso: Ciência da Computação (FCI);
 - Orientador: Ivan Carlos Alcantara de Oliveira;
 - Apoio: PIBIC Mackenzie.
+
+## **PROJETO DE TCC**
+
+## **A ANÁLISE DE SENTIMENTOS E EMOÇÕES DE MENSAGENS DE REDES SOCIAIS ENVOLVENDO SERVIÇOS DE ENTREGA DE ALIMENTOS**
+
+Resumo presente no artigo:
+
+Considerando a pandemia de COVID-19, houve uma expansão significativa nos serviços de entrega, especialmente os de alimentos, tornando-se relevante a investigação das opiniões dos clientes desses serviços. Com base nessa motivação e em trabalhos anteriores, este estudo teve como objetivo investigar técnicas de mineração de texto e Aprendizagem de Máquina (AM) na análise de sentimentos (classificação entre positivo, negativo ou neutro) e emoções (classificação entre felicidade, tristeza, raiva
+ou neutro) em mensagens publicadas em redes sociais relacionadas aos serviços dos aplicativos Rappi, iFood e Zé Delivery. Para alcançar esse objetivo, foram realizadas as seguintes etapas: coleta de dados em redes sociais como Twitter, Bluesky e Facebook, com rotulação manual dos textos coletados; pré-processamento dos dados utilizando técnicas de Processamento de Linguagem Natural (PLN), como remoção de stopwords, case folding e tokenization; teste da técnica SMOTE para balanceamento das classes e possível incremento na eficácia dos resultados; e experimentos com diferentes técnicas de AM. Da literatura, foram selecionados os algoritmos Support Vector Machine (SVM), Random Forest e Naive Bayes. Os resultados obtidos incluem: um conjunto de dados final composto por 1.728 textos rotulados; um estudo comparativo entre combinações de técnicas de PLN e AM; e um repositório publicado no GitHub, documentando as combinações mais assertivas envolvendo o SVM.
+
+
+Neste GitHub você encontrará:
+1. Artigo do estudo na íntegra;
+2. Base de dados de diversas redes sociais rotulada com sentimentos e emoções;
+3. Código fonte do modelo gerado na pesquisa;
+4. Planilha com os resultados obtidos em todos os experimentos realizados durante a pesquisa;
+
+Autoria:
+- Autor/pesquisador: João Pedro Rodrigues Alves;
+- Instituição: Universidade Presbiteriana Mackenzie;
+- Curso: Ciência da Computação (FCI);
+- Orientador: Mario Olimpio de Menezes;
